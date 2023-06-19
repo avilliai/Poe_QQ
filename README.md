@@ -1,5 +1,5 @@
 # Poe_QQ
-poe逆向工程对接到QQ
+[poe逆向工程](https://github.com/ading2210/poe-api)对接到QQ
 # 准备工作
 配置[mirai-api-http](https://github.com/project-mirai/mirai-api-http)，[配置示例](https://github.com/avilliai/wReply/blob/master/setting.yml)
 了解你的代理(运行的端口号)
@@ -24,3 +24,5 @@ poe逆向工程对接到QQ
 - /reload指令用于重新加载，如果遇到卡死的情况，不过卡死的原因更可能是因为代理不行被poe鲨了，所以/reload并不能解决所有问题
 - /clear
 - /clear指令用于清空对话
+# 其他
+考试周了，做的比较匆忙，[poe逆向工程](https://github.com/ading2210/poe-api)的文档我还没看够一遍。
