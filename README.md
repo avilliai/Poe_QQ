@@ -4,6 +4,8 @@
 配置[mirai-api-http](https://github.com/project-mirai/mirai-api-http)，[配置示例](https://github.com/avilliai/wReply/blob/master/setting.yml)
 
 了解你的代理(运行的端口号)
+
+下载release中的poeBridge.rar
 # 使用
 ## 获取你的token
 - 打开代理进入poe.com(如果打不开说明你的代理不行，换。)
