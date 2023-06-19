@@ -23,11 +23,11 @@
 双击start.cmd
 
 # 可用的指令
-- /poe
+/poe
 - 前缀/poe以进行对话，例如：/poe介绍理塘艺术家丁真珍珠先生
-- /reload
+/reload
 - /reload指令用于重新加载，如果遇到卡死的情况，不过卡死的原因更可能是因为代理不行被poe鲨了，所以/reload并不能解决所有问题
-- /clear
+/clear
 - /clear指令用于清空对话
 # 其他
 考试周了，做的比较匆忙，[poe逆向工程](https://github.com/ading2210/poe-api)的文档我还没看够一遍。
