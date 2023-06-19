@@ -1,5 +1,5 @@
 # Poe_QQ
-[poe逆向工程](https://github.com/ading2210/poe-api)对接到QQ
+[poe-api](https://github.com/ading2210/poe-api)对接到QQ
 # 准备工作
 配置[mirai-api-http](https://github.com/project-mirai/mirai-api-http)，[配置示例](https://github.com/avilliai/wReply/blob/master/setting.yml)
 
