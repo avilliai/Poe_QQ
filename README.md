@@ -7,6 +7,12 @@
 
 下载release中的poeBridge.rar
 # 使用
+## 安装python
+从release下载
+```
+pip install yiri-mirai
+pip install poe-api
+```
 ## 获取你的token
 - 打开代理进入poe.com(如果打不开说明你的代理不行，换。)
 - 按下f12进入开发者模式，找到application(应用程序)，复制p-b项的值
