@@ -8,7 +8,7 @@
 下载release中的poeBridge.rar
 # 使用
 ## 安装python
-从release下载
+从release下载，打开cmd输入如下内容
 ```
 pip install yiri-mirai
 pip install poe-api
@@ -26,7 +26,9 @@ pip install poe-api
 - vertify_key填你mirai-api-http配置的key;port填mirai-api-http配置的端口
 - poeKEY填我们上面复制的p-b的值，proxy填你的代理地址(我的在本地的1080端口所以是http://127.0.0.1:1080)
 ## 运行
-双击start.cmd
+启动bot.py
+
+不要试start.cmd，我铸币了
 
 # 可用的指令
 /poe
