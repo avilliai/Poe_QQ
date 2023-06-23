@@ -41,11 +41,11 @@ if __name__ == '__main__':
         client = poe.Client(poeKEY, proxy=proxy)
         json.dumps(client.bot_names, indent=2)
         mes="早上好"
-        str=""
+        str2=""
         for chunk in client.send_message("capybara", mes):
             # print(chunk["text_new"],end="", flush=True)
             str += chunk["text_new"]
-        print("bot:" + str)
+        print("bot:" + str2)
     except:
         print("出错，请检查代理配置或更新token。")
 
