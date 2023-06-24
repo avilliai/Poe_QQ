@@ -1,5 +1,6 @@
 # Poe_QQ
 poe-api对接到QQ
+
 需要[安装mirai-api-http](https://github.com/project-mirai/mirai-api-http)并[配置](https://github.com/avilliai/wReply/blob/master/setting.yml)
 
 # 安装与配置
