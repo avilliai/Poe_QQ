@@ -17,7 +17,7 @@ pip install poe-api
 ## 抓取token
 打开[poe官网](https://poe.com/)并完成注册(如果你打不开说明你的代理不行，换)
 
-按下f12打开开发者模式，找到application(或应用程序)，然后打开cookies，复制里面p-b项的值，我们之后会用到。
+按下f12打开开发者模式，找到application(或应用程序)，然后打开cookie，复制里面p-b项的值，我们之后会用到。
 ![image](https://github.com/avilliai/Poe_QQ/assets/99066610/d7623cd9-09c3-41b8-bb0e-a9fa487b7fe7)
 
 ## 填写配置文件
