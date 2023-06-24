@@ -1,7 +1,9 @@
 # Poe_QQ
 poe-api对接到QQ
 
-需要[安装mirai-api-http](https://github.com/project-mirai/mirai-api-http)并[配置](https://github.com/avilliai/wReply/blob/master/setting.yml)
+基于[poe-api](https://github.com/ading2210/poe-api)实现
+
+**需要[安装mirai-api-http](https://github.com/project-mirai/mirai-api-http)并[配置](https://github.com/avilliai/wReply/blob/master/setting.yml)**
 
 # 安装与配置
 ## 安装python(从release下载)
@@ -32,7 +34,11 @@ pip install poe-api
 # 使用
 /poe
 - 如 /poe请介绍理塘艺术家丁真珍珠先生的主要作品
+- 
 /reload
 - 用于掉线重连，仅master可用指令。如果/reload不起效看看账号是不是被封了或者代理是否依然有效
+
 /clear
 - 清空对话
+# 其他
+正在考试周，没有时间去实现api中的所有功能，等考完慢慢搓。
