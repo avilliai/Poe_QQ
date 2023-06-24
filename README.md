@@ -35,6 +35,7 @@ pip install poe-api
 /poe
 - /poe请介绍理塘艺术家丁真珍珠先生的主要作品
 - /poe分析电子烟与传统香烟的优缺点
+
 /reload
 - 用于掉线重连，仅master可用指令。如果/reload不起效看看账号是不是被封了或者代理是否依然有效
 
