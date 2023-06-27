@@ -27,7 +27,7 @@ pip install poe-api
 ```
 - botName可以不用管，没写替换。botQQ填bot的qq，master填你的qq
 - vertify_key填写你api-http中配置的key,port填写api-http中ws配置的端口(如果你使用[配置文件示例](https://github.com/avilliai/wReply/blob/master/setting.yml)可以忽略这部分)
-- poeKEY填写上面我们抓取的p-b的内容，proxy填写你代理的端口，我的在本地的1080端口运行所以是http://127.0.0.1:1080
+- poeKEY填写上面我们抓取的p-b的内容，proxy填写你代理的地址，我的在本地的1080端口运行所以是http://127.0.0.1:1080
 ## 启动
 运行bot.py即可
 
